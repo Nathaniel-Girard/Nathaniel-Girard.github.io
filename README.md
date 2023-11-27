@@ -25,3 +25,18 @@
 | Automne 2023            | CyberSci Regionals  |                        |
 | Automne 2023            | Hackfest            |                        |
 | Hiver 2022              | Ludum Dare Game Jam |                        |
+
+## Connaissances
+
+| Catégorie                 | Sujet                                            |
+| ------------------------- | ------------------------------------------------ |
+| Langages de programmation | Python, C\#, C++, Java, Javascript, MySQL, Unity |
+| Protocoles                | APIs & HTTP, JSON, REST                          |
+| Outils                    | LaTeX, Excel, Word, Linux                        |
+
+## Langues
+
+| Niveau        | Langue            |
+| ------------- | ----------------- |
+| Avancé        | Français, Anglais |
+| Intermédiaire | Espagnol          |
